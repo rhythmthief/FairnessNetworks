@@ -401,7 +401,7 @@ def run_fig3b():
             if row['networkDomain'] != domain:
                 continue
 
-            # get the hashed name of the network
+            # geytickst the hashed name of the network
             hashed_network_name = row['hashed_network_name']
 
             # is this network ready to go?
@@ -541,16 +541,18 @@ def run_fig3b():
     plt.margins(y=0)
 
     # start plt figure with 1 row, one column for each domain
-    fig, axs = plt.subplots(1, len(domains), sharey=True, gridspec_kw={'width_ratios':widths}, figsize=(20,3))
-    #fig.subplots_adjust(left=0.45)  # Adjust the left padding as needed
+    if p_tag != 'low':
+        fig, axs = plt.subplots(1, len(domains), sharey=True, gridspec_kw={'width_ratios':widths}, figsize=(20,5.1))
+    else:
+        fig, axs = plt.subplots(1, len(domains), sharey=True, gridspec_kw={'width_ratios':widths}, figsize=(20,4.8))
 
-    axs[0].plot([-40], [0], alpha=0)  # Invisible point for padding
+    #axs[0].plot([-40], [0], alpha=0)  # Invisible point for padding
 
     for i, domain in enumerate(domains):
 
         # set title, offset slightly upward
-        if p_tag == 'low':
-           axs[i].set_title(domain, fontsize=FONT_SIZE*1.5, loc='right', pad=30, rotation=-20)
+        if p_tag in ['low', 'med']:
+            axs[i].set_title(domain, fontsize=FONT_SIZE*1.5, loc='center', pad=15, rotation=-10, ha='right')
 
         # set xticks to domain length
         axs[i].set_xticks(np.arange(0, len(result_colors[domain]['random']), 1))
@@ -586,7 +588,7 @@ def run_fig3b():
     # set y-ticks
 
     # draw y ticks manually
-    axs[0].set_yticks(np.arange(0.5, len(y_algo_pos) + 0.5, 1), renamed_algos, fontsize=FONT_SIZE*1.5, rotation=-20)
+    axs[0].set_yticks(np.arange(0.5, len(y_algo_pos)+0.5, 1), renamed_algos, fontsize=FONT_SIZE*1.5)
 
     # classes:
     # myopic: grey
@@ -595,8 +597,8 @@ def run_fig3b():
     # inconclusive: skyblue (COLORS[-2])
     # within 80% of myopic: white (COLORS[-3])
 
-    if p_tag == 'med':
-        plt.legend([mpatches.Patch(color='#808080'), mpatches.Patch(color=COLORS[-1]), mpatches.Patch(color=COLORS[1]), mpatches.Patch(color=COLORS[-2]), mpatches.Patch(color=COLORS[-3])], ['Myopic', 'Better than myopic', 'Worse than myopic', 'Too close to tell', 'Within 80% of myopic'], bbox_to_anchor=(-5, -0.03), ncol=3, fontsize=FONT_SIZE*1.5)
+    if p_tag in ['high', 'med']:
+        plt.legend([mpatches.Patch(color='#808080'), mpatches.Patch(color=COLORS[-1]), mpatches.Patch(color=COLORS[1]), mpatches.Patch(color=COLORS[-2]), mpatches.Patch(color=COLORS[-3])], ['Myopic', 'Better than Myo.', 'Worse than Myo.', 'Equivalent', 'Within 80% of Myo.'], bbox_to_anchor=(-0.7, -0.01), ncol=5, fontsize=FONT_SIZE*1.5)
 
     # saving is disabled for now
     # save at path
@@ -604,146 +606,6 @@ def run_fig3b():
     # save as pdf
     plt.savefig(f'{PATH}/fig3b_{p_tag}.pdf', bbox_inches='tight')
         
-def run_fig3b_distribution():
-    k = 10
-
-    y_algo_pos = {
-        'random': 0,
-        'myopic': 1,
-        'naive_myopic': 2,
-        'gonzales': 3,
-        'furthest_non_seed_0': 4,
-        'furthest_non_seed_1': 5,
-        'bfs_myopic': 6,
-        'naive_bfs_myopic': 7,
-        'ppr_myopic': 8,
-        'naive_ppr_myopic': 9,
-        'degree_lowest_centrality_0': 10,
-        'degree_lowest_centrality_1': 11,
-        'degree_highest_degree_neighbor_0': 12,
-        'degree_highest_degree_neighbor_1': 13,
-    }
-
-    title_dict = {
-        '03': 'p=0.3',
-        '04': 'p=0.4',
-        '05': 'p=0.5',
-        'low': 'p_low',
-        'med': 'p_med',
-        'high': 'p_high',
-    }
-
-    algo_performance_global = {}
-
-    for algo in algo_dict.keys():
-        algo_performance_global[algo] = []
-
-    #p_tags = ['03', '04', '05', 'low', 'med', 'high']
-    p_tag = 'high'
-
-    # read in corpus dataframe
-    df = pd.read_pickle('../datasets/corpus_augmented.pkl')
-
-    # get the list of all files in ./cache/evaluations
-    files = os.listdir('./cache/evaluations')
-    file_p_tags = []
-    file_net_names = []
-
-    # parse out the p value tags and names from filenames
-    for f in files:
-        file_net_names.append(f.split('_')[0])
-        file_p_tags.append(f.split('_')[1])
-
-    # get the indices of the files with the p tag
-    indices = [i for i, x in enumerate(file_p_tags) if x == p_tag]
-
-    skips = 0 # counter for how many networks were skipped, helps adjust the figure's x-axis
-
-    # iterate over the dataframe
-    for i, row in df.iterrows():
-        ready = False
-        file_index = -1
-
-        # get the hashed name of the network
-        hashed_network_name = row['hashed_network_name']
-
-        # is this network ready to go?
-        for j in indices:
-            if hashed_network_name in file_net_names[j]:
-                ready = True
-                file_index = j
-
-        if not ready:
-            skips += 1
-            continue
-        else:
-            # read in the file
-            with open(os.path.join("./cache/evaluations/", files[file_index]), 'rb') as f:
-                # load file as a dictionary
-                d = np.load(f, allow_pickle=True)
-
-                # convert to a regular dictionary
-                d = d.item()
-
-                algo_performance = {}
-                
-                for algo in algo_dict.keys():
-                    evals = d[algo]
-
-                    for e in evals:
-                        vals = e[:k]
-
-                        # compute line of best fit
-                        a, yfits = fit_line(np.array(range(0, len(vals))), np.array(vals), intercept=vals[0])
-
-                        # store the slope
-                        if algo not in algo_performance.keys():
-                            algo_performance[algo] = []
-
-                        algo_performance[algo].append(a[0])
-
-                    algo_performance[algo] = np.mean(algo_performance[algo])
-
-                myopic_perf = algo_performance['myopic']
-
-                # normalize
-                for algo in algo_performance.keys():
-                    if myopic_perf > 0:
-                        algo_performance[algo] = algo_performance[algo] / myopic_perf
-                    elif algo_performance[algo] > 0:
-                        algo_performance[algo] = 1.1 # set to some value above 1 for later, since this outperforms myopic
-                    
-                    if algo_performance[algo] < 0:
-                        algo_performance[algo] = 0
-                    
-                    # this is a hack to make the plot for bfs_myopic look nicer
-                    if algo_performance[algo] > 3:
-                        algo_performance[algo] = 2 
-                
-                if algo_performance['myopic'] < 1:
-                    algo_performance['myopic'] = 1
-
-                # append to global
-                for algo in algo_dict.keys():
-                    algo_performance_global[algo].append(algo_performance[algo])
-
-    for algo in algo_dict.keys():
-        plt.clf()
-        print(max(algo_performance_global[algo]))
-        #plt.yticks([])
-        plt.hist(algo_performance_global[algo], bins=20, alpha=0.5, label=algo, color=COLORS[1])
-        plt.title(algo, fontsize=20)
-
-        # x-ticks: 0, 0.5, 1, 1.5, 2
-        plt.xticks([0, 0.5, 1, 1.5, 2])
-
-        # lock x-axis
-        plt.xlim(0, 2)
-
-        # save figure
-        plt.savefig(f'{PATH}/fig3b_dist_{p_tag}_{algo}.png', bbox_inches='tight')
-
-
 #########################
 def run_fig3c():
     # color dictionary for each algorithm with 14 easily distinguishable colors
