@@ -2337,6 +2337,28 @@ def fig_ensemble_ml():
         X_train = train_features
         X_test = test_features
         
+        ###
+        # hyperparameter search
+        # rs_space={'max_depth':list(np.arange(5, 100, step=5)) + [None],
+        #             'n_estimators':np.arange(10, 500, step=10),
+        #             'max_features':np.arange(1, len(train_features.columns), step=1),
+        #             'criterion':['gini','entropy'],
+        #             'min_samples_leaf':np.arange(1, 10, step=1),
+        #             'min_samples_split':np.arange(2, 10, step=2)
+        #         }
+        
+        # rf = RandomForestClassifier()
+
+        # rf_random = RandomizedSearchCV(rf, rs_space, n_iter=500, scoring='accuracy', n_jobs=-1, cv=3)
+        # model_random = rf_random.fit(X_train,y_train)
+
+        # # random random search results
+        # print('Best hyperparameters: '+str(model_random.best_params_))
+        # print('Best score: '+str(model_random.best_score_))
+
+        ###
+
+
         clf = RandomForestClassifier(max_features=1, criterion='gini', min_samples_leaf=1, min_samples_split=8, max_depth=10, n_estimators=70)
         clf.fit(X_train, y_train)
 

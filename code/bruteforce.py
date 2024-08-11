@@ -5,7 +5,7 @@ import probability as prob
 
 def run_bruteforce(G, p, k):
     # bruteforces the optimal seed set for a given graph and p
-    # this is silly slow, don't run for anything other than the SMALL synthetic graphs
+    # this is slow, don't run for anything other than the SMALL synthetic graphs
 
     # get every possible seed set
     all_seed_sets = list(itertools.combinations(range(G.number_of_nodes()), k))

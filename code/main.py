@@ -9,7 +9,7 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 # suppress deprecated warning
 warnings.simplefilter(action='ignore', category=DeprecationWarning)
 
-# # command line arguments
+# command line arguments
 command = sys.argv[1]
 args = sys.argv[2:]
 algo_dict = {
@@ -30,7 +30,6 @@ algo_dict = {
         "degree_highest_degree_neighbor_1": False,
     }
 
-
 # python main.py corpus 0 0.5 5 random,myopic,naive_myopic,gonzales,furthest_non_seed_0,furthest_non_seed_1,bfs_myopic,naive_bfs_myopic,ppr_myopic,naive_ppr_myopic,degree_lowest_centrality_0,degree_lowest_centrality_1,degree_highest_degree_neighbor_0,degree_highest_degree_neighbor_1
 
 if command == "algo_assessment":
@@ -50,7 +49,6 @@ if command == "algo_assessment":
 
 if command == "bruteforce":
     # run bruteforce
-
     # args: graph_name, p, k
 
     graph_names = args[0].split(",")
@@ -80,7 +78,7 @@ if command == "corpus_multi":
 
     # arguments are lower and upper indices within the corpus
 
-    # args: index
+    # args: index of the network
     index= int(args[0])
 
     # algorithms we agreed on
@@ -118,8 +116,6 @@ if command == 'test':
 
         print(d['myopic'])
     
-
-
 if command == 'features':
     runners.run_features()
 
@@ -143,7 +139,6 @@ if command == 'fig3a_temp':
 
 if command == 'fig3b':
     runners_figs.run_fig3b()
-    # runners_figs.run_fig3b_distribution()
 
 if command == 'fig3c':
     runners_figs.run_fig3c()
