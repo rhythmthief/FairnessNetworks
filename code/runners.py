@@ -769,3 +769,33 @@ def run_augment_corpus():
 
     print('Corpus augmented.')
 
+
+def export_corpus_gml():
+    # export corpus to gml format
+
+    # read in the augmented corpus
+    df = pd.read_pickle('../datasets/corpus_augmented.pkl')
+
+    # citations file to write into
+    with open('../datasets/_CITATIONS.txt', 'w') as citations:
+        # iterate over each row in the dataframe
+        for i, row in df.iterrows():
+            # read in the network
+            G = nx.from_edgelist(row['edges_id'])
+
+            # print citation, source url, hostedby
+            print(row['hashed_network_name'])
+            print(row['citation'])
+            print(row['sourceUrl'])
+
+            # write the the citation and source url to a file
+            citations.write(f'{row["hashed_network_name"]}\n')
+            citations.write(f'{row["citation"]}\n')
+            citations.write(f'{row["sourceUrl"]}\n')
+            citations.write('\n')
+            
+
+            # write out the network
+            nx.write_gml(G, f'../datasets/gml/{row["hashed_network_name"]}.gml')
+
+    print('Exported corpus to gml format.')

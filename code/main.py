@@ -212,11 +212,11 @@ if command == 'fig_algos_timing':
         
     runners_figs.run_algos_timing(alt)
 
-if command == 'apsp':
-    runners.run_fast_apsp()
-
 if command == 'fig_ensemble':
     runners_figs.run_ensemble()
 
 if command == 'ensemble_ml':
     runners.run_ensemble_ml()
+
+if command == 'export_corpus_gml':
+    runners.export_corpus_gml()

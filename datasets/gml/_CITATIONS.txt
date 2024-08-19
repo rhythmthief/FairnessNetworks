@@ -1,0 +1,700 @@
+2314bdc6af5e7cc9abbe9fc8d8156a70
+V. Colizza, R. Pastor-Satorras and A. Vespignani, "Reaction-diffusion processes and metapopulation models in heterogeneous networks." Nature Physics 3, 276-282 (2007)
+http://nwb.cns.iu.edu/papers/2007-colizza-metapop.pdf
+
+49dbf9ac6102eb30983ac3c7e61bf937
+L. Šubelj, & M. Bajec, "Community structure of complex software systems: Analysis and applications." Physica A 390(16), 2968-2975 (2011)
+https://arxiv.org/abs/1105.4276
+
+f6c77b39e745e2a3159f7c28f258e03c
+University of Oregon Route Views Project, http://www.routeviews.org/ (2001)
+http://www.routeviews.org/
+
+923a4057a8da24472f458f4c06328e3d
+A. Chatterjee, M. Manohar, and G. Ramadurai, "Statistical analysis of bus networks in India." PloS ONE 11(12), e0168478 (2016)
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0168478
+
+722e74f053736baeea897d173bd1b4f9
+University of Oregon Route Views Project, http://www.routeviews.org/ (2001)
+http://www.routeviews.org/
+
+d8d77cb552fc829d11b550a2f5fc676a
+University of Oregon Route Views Project, http://www.routeviews.org/ (2001)
+http://www.routeviews.org/
+
+0f207d5ca545ded55f78b6571fcd8236
+University of Oregon Route Views Project, http://www.routeviews.org/ (2001)
+http://www.routeviews.org/
+
+df827d0df4298e8ea9d9cf9cf7d9d8f9
+J. Das and H. Yu, "HINT: High-quality protein interactomes and their applications in understanding human disease." BMC Systems Biology 6(1), 92 (2012)
+http://www.biomedcentral.com/1752-0509/6/92/
+
+71ae0b23b35fc6040d39dd556d8bfe28
+University of Oregon Route Views Project, http://www.routeviews.org/ (2001)
+http://www.routeviews.org/
+
+a49007fadbd5d35e29c5f88560ecf10d
+University of Oregon Route Views Project, http://www.routeviews.org/ (2001)
+http://www.routeviews.org/
+
+5f4afd57d5345fe88079c8bd62f8b8e6
+C. Seierstad and T. Opsahl, "For the few not the many? The effects of affirmative action on presence, prominence, and social capital of women directors in Norway." Scand. J. Manag. 27(1), 44-54 (2011).
+http://toreopsahl.com/2010/09/30/article-for-the-few-not-the-many-the-effects-of-affirmative-action-on-presence-prominence-and-social-capital-of-women-directors-in-norway/
+
+3f072948fe2ae743f82c18920c1eae16
+University of Oregon Route Views Project, http://www.routeviews.org/ (2001)
+http://www.routeviews.org/
+
+3139be52f415eca2bc4ad38f73394ef5
+F. Brglez,  D. Bryan, K. Kozminski, "Combinational profiles of sequential benchmark circuits." Proc. Int. Symp. on Circuits And Systems, 3,1929 - 1934 (1989)
+http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=100747&tag=1
+
+d4d260438a177a5d9f47aafd9c092f8c
+University of Oregon Route Views Project, http://www.routeviews.org/ (2001)
+http://www.routeviews.org/
+
+f7522362b640f705b3a0ba61c24b7cea
+M. Huss & P. Holme, "Currency and commodity metabolites: their identification and relation to the modularity of metabolic networks." IET Syst. Biol. 1(5), 280-285 (2007)
+http://arxiv.org/abs/q-bio/0603038
+
+f34c9f8720e996c494b04977bd822cc0
+University of Oregon Route Views Project, http://www.routeviews.org/ (2001)
+http://www.routeviews.org/
+
+ddf8dcdd0f4948bbd79ab9a1f211d02f
+University of Oregon Route Views Project, http://www.routeviews.org/ (2001)
+http://www.routeviews.org/
+
+f28eb0bd0b7e3e952cf13f10ec3eee46
+University of Oregon Route Views Project, http://www.routeviews.org/ (2001)
+http://www.routeviews.org/
+
+c042a35be2a8fef3c2cc3d70800a7234
+University of Oregon Route Views Project, http://www.routeviews.org/ (2001)
+http://www.routeviews.org/
+
+8c934fbaa0eb5969ad0244d2c116b756
+F. Brglez,  D. Bryan, K. Kozminski, "Combinational profiles of sequential benchmark circuits." Proc. Int. Symp. on Circuits And Systems, 3,1929 - 1934 (1989)
+http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=100747&tag=1
+
+3a52423a1c6aaffab58d5e72edb6c3d9
+J. Wachs, M. Fazekas, and J. Kertész, "Corruption Risk in Contracting Markets: A Network Science Perspective." International Journal of Data Science and Analytics, pp 1–16 (2020)
+https://zenodo.org/record/3627216#.XivHNy2ZNGV
+
+6e012bb773c0e1c9ed05289b6604e938
+F. Brglez,  D. Bryan, K. Kozminski, "Combinational profiles of sequential benchmark circuits." Proc. Int. Symp. on Circuits And Systems, 3,1929 - 1934 (1989)
+http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=100747&tag=1
+
+92cc1049007622398ca838539756b16d
+C. Seierstad and T. Opsahl, "For the few not the many? The effects of affirmative action on presence, prominence, and social capital of women directors in Norway." Scand. J. Manag. 27(1), 44-54 (2011).
+http://toreopsahl.com/2010/09/30/article-for-the-few-not-the-many-the-effects-of-affirmative-action-on-presence-prominence-and-social-capital-of-women-directors-in-norway/
+
+867373cab20f8c507b0b0b901758a641
+M. Huss & P. Holme, "Currency and commodity metabolites: their identification and relation to the modularity of metabolic networks." IET Syst. Biol. 1(5), 280-285 (2007)
+http://arxiv.org/abs/q-bio/0603038
+
+9be1e63c961cc9ec7afde02bd44c2f6b
+M. Huss & P. Holme, "Currency and commodity metabolites: their identification and relation to the modularity of metabolic networks." IET Syst. Biol. 1(5), 280-285 (2007)
+http://arxiv.org/abs/q-bio/0603038
+
+4716c15013a9bd69f2ee5c2d1f4769c0
+M. Huss & P. Holme, "Currency and commodity metabolites: their identification and relation to the modularity of metabolic networks." IET Syst. Biol. 1(5), 280-285 (2007)
+http://arxiv.org/abs/q-bio/0603038
+
+0e8f4110018525e75cc971318d4e6818
+J. Wachs, M. Fazekas, and J. Kertész, "Corruption Risk in Contracting Markets: A Network Science Perspective." International Journal of Data Science and Analytics, pp 1–16 (2020)
+https://zenodo.org/record/3627216#.XivHNy2ZNGV
+
+27fbab69499968f8fe26d343f0f1617d
+M. Huss & P. Holme, "Currency and commodity metabolites: their identification and relation to the modularity of metabolic networks." IET Syst. Biol. 1(5), 280-285 (2007)
+http://arxiv.org/abs/q-bio/0603038
+
+4dea25a2f7752d06b178950666e6333c
+M. Huss & P. Holme, "Currency and commodity metabolites: their identification and relation to the modularity of metabolic networks." IET Syst. Biol. 1(5), 280-285 (2007)
+http://arxiv.org/abs/q-bio/0603038
+
+2fa9944e2af176952442a498a3ea816f
+M. Huss & P. Holme, "Currency and commodity metabolites: their identification and relation to the modularity of metabolic networks." IET Syst. Biol. 1(5), 280-285 (2007)
+http://arxiv.org/abs/q-bio/0603038
+
+38b982542689b7ecec26cafe8707660c
+M. Huss & P. Holme, "Currency and commodity metabolites: their identification and relation to the modularity of metabolic networks." IET Syst. Biol. 1(5), 280-285 (2007)
+http://arxiv.org/abs/q-bio/0603038
+
+da29957b01e7ff9916031a9f1b6b2f74
+C. Seierstad and T. Opsahl, "For the few not the many? The effects of affirmative action on presence, prominence, and social capital of women directors in Norway." Scand. J. Manag. 27(1), 44-54 (2011).
+http://toreopsahl.com/2010/09/30/article-for-the-few-not-the-many-the-effects-of-affirmative-action-on-presence-prominence-and-social-capital-of-women-directors-in-norway/
+
+3ff42378188401fb3f1e2729022b3698
+M. Kato et al., "Insect-flower relationship in the primary beech forest of Ashu, Kyoto: an overview of the flowering phenology and seasonal pattern of insect visits." Contr. Biol. Lab. Kyoto Univ. 27, 309-375 (1990)
+http://www.researchgate.net/publication/236969168_Insect-flower_relationship_in_the_primary_beech_forest_of_Ashu_Kyoto_an_overview_of_the_flowering_phenology_and_the_seasonal_pattern_of_insect_visits
+
+3347062029904072c27a4fed1f275b0b
+J. Wachs, M. Fazekas, and J. Kertész, "Corruption Risk in Contracting Markets: A Network Science Perspective." International Journal of Data Science and Analytics, pp 1–16 (2020)
+https://zenodo.org/record/3627216#.XivHNy2ZNGV
+
+bbfede2cf5e4309637f2b81690b29464
+C. Seierstad and T. Opsahl, "For the few not the many? The effects of affirmative action on presence, prominence, and social capital of women directors in Norway." Scand. J. Manag. 27(1), 44-54 (2011).
+http://toreopsahl.com/2010/09/30/article-for-the-few-not-the-many-the-effects-of-affirmative-action-on-presence-prominence-and-social-capital-of-women-directors-in-norway/
+
+b235c64782b88cb17f8dc72a058e866a
+N. Simonis et al., "Empirically controlled mapping of the Caenorhabditis elegans protein-protein interactome network." Nature Methods 6(1), 47-54 (2009)
+http://ccsb.dfci.harvard.edu/web/export/sites/default/ccsb/publications/papers/2009/Simonis_NatMeth_1-09.pdf
+
+69fa64d1daf3f77e5a1da7ac29983a93
+F. Brglez,  D. Bryan, K. Kozminski, "Combinational profiles of sequential benchmark circuits." Proc. Int. Symp. on Circuits And Systems, 3,1929 - 1934 (1989)
+http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=100747&tag=1
+
+bf1aed2124df2e31ca037ee915b5deaa
+F. Brglez,  D. Bryan, K. Kozminski, "Combinational profiles of sequential benchmark circuits." Proc. Int. Symp. on Circuits And Systems, 3,1929 - 1934 (1989)
+http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=100747&tag=1
+
+229e6e151dc96ace258dea7a61e006ab
+J. Das and H. Yu, "HINT: High-quality protein interactomes and their applications in understanding human disease." BMC Systems Biology 6(1), 92 (2012)
+http://www.biomedcentral.com/1752-0509/6/92/
+
+911321595cdb8f98fe450a4ed437244a
+M. Huss & P. Holme, "Currency and commodity metabolites: their identification and relation to the modularity of metabolic networks." IET Syst. Biol. 1(5), 280-285 (2007)
+http://arxiv.org/abs/q-bio/0603038
+
+4ac734f8b992d21faf478b4e94eb0747
+F. Corno, M.S. Reorda, G. Squillero, ÛÏRT-level ITCÛ÷99 benchmarks and first ATPG results,ÛÏ in: Proc. of the IEEE Design and Test of Computers (2000).
+http://ddd.fit.cvut.cz/prj/Benchmarks/
+
+5a140e579f165641cfc3e3581f999161
+M. Huss & P. Holme, "Currency and commodity metabolites: their identification and relation to the modularity of metabolic networks." IET Syst. Biol. 1(5), 280-285 (2007)
+http://arxiv.org/abs/q-bio/0603038
+
+7fa600b33cb8ea7e592db49597ba9e88
+A.L. Traud, P.J. Mucha, and M.A. Porter. "Social structure of Facebook networks." Physica A, 391(16), 4165–4180 (2012)
+http://arxiv.org/abs/1102.2166
+
+aff662a529925ad4c276118d62345883
+M. Huss & P. Holme, "Currency and commodity metabolites: their identification and relation to the modularity of metabolic networks." IET Syst. Biol. 1(5), 280-285 (2007)
+http://arxiv.org/abs/q-bio/0603038
+
+5e86ad2ad093d8d548edf9920ebe5a36
+F. Corno, M.S. Reorda, G. Squillero, RT-level ITC99 benchmarks and first ATPG: Proc. of the IEEE Design and Test of Computers (2000).
+http://ddd.fit.cvut.cz/prj/Benchmarks/
+
+cd97c3561d7df84572b1334700516d08
+C.R. Myers, "Software systems as complex networks: Structure, function, and evolvability of software collaboration graphs." Physical Review E 68, 046116 (2003)
+http://arxiv.org/abs/cond-mat/0305575
+
+5abf6d1edb0e3e341dfb3f6ea62a0bf1
+R. Hausmann et al., "The Atlas of Economic Complexity: Mapping paths to prosperity." MIT Press (2014)
+http://atlas.cid.harvard.edu/media/atlas/pdf/HarvardMIT_AtlasOfEconomicComplexity.pdf
+
+83b75da97d22869312b5b517aa3cf820
+M. Huss & P. Holme, "Currency and commodity metabolites: their identification and relation to the modularity of metabolic networks." IET Syst. Biol. 1(5), 280-285 (2007)
+http://arxiv.org/abs/q-bio/0603038
+
+4bd616861a9cbe9cdb503e34c7fe7994
+C. Seierstad and T. Opsahl, "For the few not the many? The effects of affirmative action on presence, prominence, and social capital of women directors in Norway." Scand. J. Manag. 27(1), 44-54 (2011).
+http://toreopsahl.com/2010/09/30/article-for-the-few-not-the-many-the-effects-of-affirmative-action-on-presence-prominence-and-social-capital-of-women-directors-in-norway/
+
+1b703a83a2407aa8b44159ab4a6be9c9
+C. Seierstad and T. Opsahl, "For the few not the many? The effects of affirmative action on presence, prominence, and social capital of women directors in Norway." Scand. J. Manag. 27(1), 44-54 (2011).
+http://toreopsahl.com/2010/09/30/article-for-the-few-not-the-many-the-effects-of-affirmative-action-on-presence-prominence-and-social-capital-of-women-directors-in-norway/
+
+44454428423ff0f84eb17a8ccc48b1f5
+M. Huss & P. Holme, "Currency and commodity metabolites: their identification and relation to the modularity of metabolic networks." IET Syst. Biol. 1(5), 280-285 (2007)
+http://arxiv.org/abs/q-bio/0603038
+
+0252acfa167a2858288f02c76f2f6288
+C. Seierstad and T. Opsahl, "For the few not the many? The effects of affirmative action on presence, prominence, and social capital of women directors in Norway." Scand. J. Manag. 27(1), 44-54 (2011).
+http://toreopsahl.com/2010/09/30/article-for-the-few-not-the-many-the-effects-of-affirmative-action-on-presence-prominence-and-social-capital-of-women-directors-in-norway/
+
+491da87e321cfd8b487463fef5f95ff4
+C. Seierstad and T. Opsahl, "For the few not the many? The effects of affirmative action on presence, prominence, and social capital of women directors in Norway." Scand. J. Manag. 27(1), 44-54 (2011).
+http://toreopsahl.com/2010/09/30/article-for-the-few-not-the-many-the-effects-of-affirmative-action-on-presence-prominence-and-social-capital-of-women-directors-in-norway/
+
+f927d7b2096b2cbcdae0f7d02eb5ca91
+C. Seierstad and T. Opsahl, "For the few not the many? The effects of affirmative action on presence, prominence, and social capital of women directors in Norway." Scand. J. Manag. 27(1), 44-54 (2011).
+http://toreopsahl.com/2010/09/30/article-for-the-few-not-the-many-the-effects-of-affirmative-action-on-presence-prominence-and-social-capital-of-women-directors-in-norway/
+
+0e0edfebc6a80adf1ea0483f8e726a2f
+P. Sapiezynski, et al., "Interaction data from the Copenhagen Networks Study." Scientific Data 6, 315 (2019), https://doi.org/10.1038/s41597-019-0325-x [@sci-hub]
+https://figshare.com/articles/dataset/The_Copenhagen_Networks_Study_interaction_data/7267433/1
+
+bddb4a40b00ba005fa4de64c49c4e140
+J. Leskovec, J. Kleinberg and C. Faloutsos. Graph Evolution: Densification and Shrinking Diameters. ACM Transactions on Knowledge Discovery from Data (ACM TKDD), 1(1), 2007.
+http://snap.stanford.edu/data/email-Eu-core.html
+
+51ea63a4855f8a785148cd26a31164e4
+M. Huss & P. Holme, "Currency and commodity metabolites: their identification and relation to the modularity of metabolic networks." IET Syst. Biol. 1(5), 280-285 (2007)
+http://arxiv.org/abs/q-bio/0603038
+
+b75ae77101f5fe9a0844c9c6f84be513
+C. Seierstad and T. Opsahl, "For the few not the many? The effects of affirmative action on presence, prominence, and social capital of women directors in Norway." Scand. J. Manag. 27(1), 44-54 (2011).
+http://toreopsahl.com/2010/09/30/article-for-the-few-not-the-many-the-effects-of-affirmative-action-on-presence-prominence-and-social-capital-of-women-directors-in-norway/
+
+e6cbd08bb9ba9dbcac34c15ab11f0750
+C. Seierstad and T. Opsahl, "For the few not the many? The effects of affirmative action on presence, prominence, and social capital of women directors in Norway." Scand. J. Manag. 27(1), 44-54 (2011).
+http://toreopsahl.com/2010/09/30/article-for-the-few-not-the-many-the-effects-of-affirmative-action-on-presence-prominence-and-social-capital-of-women-directors-in-norway/
+
+f0d617097124b7a5e95646d98c95c45d
+C. Seierstad and T. Opsahl, "For the few not the many? The effects of affirmative action on presence, prominence, and social capital of women directors in Norway." Scand. J. Manag. 27(1), 44-54 (2011).
+http://toreopsahl.com/2010/09/30/article-for-the-few-not-the-many-the-effects-of-affirmative-action-on-presence-prominence-and-social-capital-of-women-directors-in-norway/
+
+921bb19409acfc1bfa8c4e13b023fffa
+M. Huss & P. Holme, "Currency and commodity metabolites: their identification and relation to the modularity of metabolic networks." IET Syst. Biol. 1(5), 280-285 (2007)
+http://arxiv.org/abs/q-bio/0603038
+
+099849d143c793c351f3ea8ce01d6cde
+C. Seierstad and T. Opsahl, "For the few not the many? The effects of affirmative action on presence, prominence, and social capital of women directors in Norway." Scand. J. Manag. 27(1), 44-54 (2011).
+http://toreopsahl.com/2010/09/30/article-for-the-few-not-the-many-the-effects-of-affirmative-action-on-presence-prominence-and-social-capital-of-women-directors-in-norway/
+
+b7337ce22b8f4fd96d270ef1a0a20a81
+M. Huss & P. Holme, "Currency and commodity metabolites: their identification and relation to the modularity of metabolic networks." IET Syst. Biol. 1(5), 280-285 (2007)
+http://arxiv.org/abs/q-bio/0603038
+
+0e10a348693eabd45c13bf49da96ee7f
+F. Brglez,  D. Bryan, K. Kozminski, "Combinational profiles of sequential benchmark circuits." Proc. Int. Symp. on Circuits And Systems, 3,1929 - 1934 (1989)
+http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=100747&tag=1
+
+18fb884e81f0d7e8edd750ceb1fdd17f
+C. Seierstad and T. Opsahl, "For the few not the many? The effects of affirmative action on presence, prominence, and social capital of women directors in Norway." Scand. J. Manag. 27(1), 44-54 (2011).
+http://toreopsahl.com/2010/09/30/article-for-the-few-not-the-many-the-effects-of-affirmative-action-on-presence-prominence-and-social-capital-of-women-directors-in-norway/
+
+e13037c82cd82df0401c2029f275d0ec
+B. Stabler, "Transportation Network Test Problems." http://www.bgu.ac.il/~bargera/tntp/ (2016).
+http://konect.uni-koblenz.de/networks/tntp-ChicagoRegional
+
+ad11dcd4c5986de7b76aaa9e868f4f94
+C. Seierstad and T. Opsahl, "For the few not the many? The effects of affirmative action on presence, prominence, and social capital of women directors in Norway." Scand. J. Manag. 27(1), 44-54 (2011).
+http://toreopsahl.com/2010/09/30/article-for-the-few-not-the-many-the-effects-of-affirmative-action-on-presence-prominence-and-social-capital-of-women-directors-in-norway/
+
+164ba49df47de490c6f9d044b02b63d4
+C. Seierstad and T. Opsahl, "For the few not the many? The effects of affirmative action on presence, prominence, and social capital of women directors in Norway." Scand. J. Manag. 27(1), 44-54 (2011).
+http://toreopsahl.com/2010/09/30/article-for-the-few-not-the-many-the-effects-of-affirmative-action-on-presence-prominence-and-social-capital-of-women-directors-in-norway/
+
+29374d487804b107848af038274d0bcb
+C. Seierstad and T. Opsahl, "For the few not the many? The effects of affirmative action on presence, prominence, and social capital of women directors in Norway." Scand. J. Manag. 27(1), 44-54 (2011).
+http://toreopsahl.com/2010/09/30/article-for-the-few-not-the-many-the-effects-of-affirmative-action-on-presence-prominence-and-social-capital-of-women-directors-in-norway/
+
+f76f7a0c155511b3916dcf0da76ab931
+C. Seierstad and T. Opsahl, "For the few not the many? The effects of affirmative action on presence, prominence, and social capital of women directors in Norway." Scand. J. Manag. 27(1), 44-54 (2011).
+http://toreopsahl.com/2010/09/30/article-for-the-few-not-the-many-the-effects-of-affirmative-action-on-presence-prominence-and-social-capital-of-women-directors-in-norway/
+
+b1abbba9c2cd07a65faef09a882fcf7f
+C. Seierstad and T. Opsahl, "For the few not the many? The effects of affirmative action on presence, prominence, and social capital of women directors in Norway." Scand. J. Manag. 27(1), 44-54 (2011).
+http://toreopsahl.com/2010/09/30/article-for-the-few-not-the-many-the-effects-of-affirmative-action-on-presence-prominence-and-social-capital-of-women-directors-in-norway/
+
+47a5ba15ac630de90c6055826e618d1b
+C. Seierstad and T. Opsahl, "For the few not the many? The effects of affirmative action on presence, prominence, and social capital of women directors in Norway." Scand. J. Manag. 27(1), 44-54 (2011).
+http://toreopsahl.com/2010/09/30/article-for-the-few-not-the-many-the-effects-of-affirmative-action-on-presence-prominence-and-social-capital-of-women-directors-in-norway/
+
+7be66dbe15285cadec3550a7dd21e892
+J. Kunegis, "DNC emails co-recipients." KONECT, the Koblenz Network Collection (2016), https://doi.org/10.1145/2487788.2488173 [@sci-hub]
+http://konect.cc/networks/dnc-corecipient/
+
+1f472bbe33f08a7c428136aa9e665571
+M. Huss & P. Holme, "Currency and commodity metabolites: their identification and relation to the modularity of metabolic networks." IET Syst. Biol. 1(5), 280-285 (2007)
+http://arxiv.org/abs/q-bio/0603038
+
+58935c6cc6a73292fa1e1c0f36ed0981
+R. Hausmann et al., "The Atlas of Economic Complexity: Mapping paths to prosperity." MIT Press (2014)
+http://atlas.cid.harvard.edu/media/atlas/pdf/HarvardMIT_AtlasOfEconomicComplexity.pdf
+
+a5034b0d480cc78ac824b9aec6f581df
+A. Yazdani and P. Jeffrey, "Complex network analysis of water distribution systems." Chaos 21, 016111 (2011)
+http://scitation.aip.org/content/aip/journal/chaos/21/1/10.1063/1.3540339
+
+a7b47cccf4bf9acc34271c57120fa09f
+M. Huss & P. Holme, "Currency and commodity metabolites: their identification and relation to the modularity of metabolic networks." IET Syst. Biol. 1(5), 280-285 (2007)
+http://arxiv.org/abs/q-bio/0603038
+
+ca69fce9b8529a1c7dd4f8afdf1d266e
+J. Das and H. Yu, "HINT: High-quality protein interactomes and their applications in understanding human disease." BMC Systems Biology 6(1), 92 (2012)
+http://www.biomedcentral.com/1752-0509/6/92/
+
+3ed6aba3e39ee1acd6ed1b6d5bd8240a
+M. Huss & P. Holme, "Currency and commodity metabolites: their identification and relation to the modularity of metabolic networks." IET Syst. Biol. 1(5), 280-285 (2007)
+http://arxiv.org/abs/q-bio/0603038
+
+7a5924db7deb497505edc103e577ec07
+B. Stabler, "The Barcelona network" (2016)
+http://www.bgu.ac.il/~bargera/tntp/
+
+dba037f936399fd12fc759289bdb75f6
+E. Sancho. "The Winnipeg Asymmetric Network" http://www.bgu.ac.il/~bargera/tntp/ (2016).
+http://www.bgu.ac.il/~bargera/tntp/
+
+2ee8dfd30d860e030d12a4a0a77f23dc
+A.L. Traud, P.J. Mucha, and M.A. Porter. "Social structure of Facebook networks." Physica A, 391(16), 4165–4180 (2012)
+http://arxiv.org/abs/1102.2166
+
+dd988ba2124c0999573a4e44ce27eb84
+H. Yu et al., "High-Quality Binary Protein Interaction Map of the Yeast Interactome Network." Science 322(5898), 104-110 (2008)
+http://interactome.dfci.harvard.edu/S_cerevisiae/download/YuSci2008.pdf
+
+b7d3115528d54c0bfe9caf14e705e27d
+M. Huss & P. Holme, "Currency and commodity metabolites: their identification and relation to the modularity of metabolic networks." IET Syst. Biol. 1(5), 280-285 (2007)
+http://arxiv.org/abs/q-bio/0603038
+
+f7f1950920e94a0367a5ac7645293425
+C.R. Myers, "Software systems as complex networks: Structure, function, and evolvability of software collaboration graphs." Physical Review E 68, 046116 (2003)
+http://arxiv.org/abs/cond-mat/0305575
+
+c7f39f6750db595ad16ce2f3df0422b9
+O. Jahn, et al., "System-optimal routing of traffic flows with user constraints in networks with congestion." Operations Research 53(4), 600-616 (2005).
+http://pubsonline.informs.org/doi/abs/10.1287/opre.1040.0197
+
+c82c24de51ab7ebf01d804e0fea4c0d7
+J. Das and H. Yu, "HINT: High-quality protein interactomes and their applications in understanding human disease." BMC Systems Biology 6(1), 92 (2012)
+http://www.biomedcentral.com/1752-0509/6/92/
+
+b30c2817fc74467c451eed894aefafd0
+D.E. Knuth, "The Stanford GraphBase: A Platform for Combinatorial Computing." New York: ACM Press. (1993)
+http://www-cs-faculty.stanford.edu/~uno/sgb.html
+
+68b9a028b623dabe17e6397c8df86ebd
+F. Corno, M.S. Reorda, G. Squillero, RT-level ITC99 benchmarks and first ATPG: Proc. of the IEEE Design and Test of Computers (2000).
+http://ddd.fit.cvut.cz/prj/Benchmarks/
+
+278f6164ed6bd47aaa037db52fd15211
+A. Chatterjee, M. Manohar, and G. Ramadurai, "Statistical analysis of bus networks in India." PloS ONE 11(12), e0168478 (2016)
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0168478
+
+bc0862e67cd796b0c54d6a6c900a2f75
+E. Garfield, "From Computational Linguistics to Algorithmic Historiography." Symp. Honor of Casimir Borkowski at U. Pittsburgh School of Information Sciences (2001)
+http://garfield.library.upenn.edu/papers/pittsburgh92001.pdf
+
+3dab45294f48c9ae3d635e5628fdf00a
+L. Šubelj & M. Bajec, "Unfolding network communities by combining defensive and offensive label propagation." ECML PKDD Workshop on the Analysis of Complex Networks (ACNE '10), pp. 87-104 (2010)
+https://arxiv.org/abs/1103.2596
+
+aa906a95fa7a345676612247ceabe061
+C.R. Myers, "Software systems as complex networks: Structure, function, and evolvability of software collaboration graphs." Physical Review E 68, 046116 ô°(2003ô°)
+http://arxiv.org/abs/cond-mat/0305575
+
+602fd62ed8361c1caee148769572f078
+F. Corno, M.S. Reorda, G. Squillero, RT-level ITC99 benchmarks and first ATPG: Proc. of the IEEE Design and Test of Computers (2000).
+http://ddd.fit.cvut.cz/prj/Benchmarks/
+
+6eb35625f72a91798131673192a19ff7
+L. Šubelj & M. Bajec. "Robust network community detection using balanced propagation." The European Physical Journal B 81(3), 353-362 (2011).
+http://wwwlovre.appspot.com/publications.jsp?show=bpa#bpa
+
+f12b307e36b3ff239a99881c0704b619
+E. Sancho. "The Winnipeg Asymmetric Network." http://www.bgu.ac.il/~bargera/tntp/ (2016).
+http://www.bgu.ac.il/~bargera/tntp/
+
+bcdc0adc54aa9b613dc2fd7240ed9cf4
+M. Huss & P. Holme, "Currency and commodity metabolites: their identification and relation to the modularity of metabolic networks." IET Syst. Biol. 1(5), 280-285 (2007)
+http://arxiv.org/abs/q-bio/0603038
+
+61705a71b6219b864434d1232eb75c6a
+J. Wachs, M. Fazekas, and J. Kertész, "Corruption Risk in Contracting Markets: A Network Science Perspective." International Journal of Data Science and Analytics, pp 1–16 (2020)
+https://zenodo.org/record/3627216#.XivHNy2ZNGV
+
+04687645e45eaea349be73cf39501e6e
+N. Simonis et al., "Empirically controlled mapping of the Caenorhabditis elegans protein-protein interactome network." Nature Methods 6(1), 47-54 (2009)
+http://ccsb.dfci.harvard.edu/web/export/sites/default/ccsb/publications/papers/2009/Simonis_NatMeth_1-09.pdf
+
+4d2c0ed0c31fb6c128be92041b019c8d
+A. Chatterjee, M. Manohar, and G. Ramadurai, "Statistical analysis of bus networks in India." PloS ONE 11(12), e0168478 (2016)
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0168478
+
+0e07e4859a7be9f393730a68fa93289e
+A. Chatterjee, M. Manohar, and G. Ramadurai, "Statistical analysis of bus networks in India." PloS ONE 11(12), e0168478 (2016)
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0168478
+
+ea706423a2e4d6a5d9db799a15ddb098
+J. Wachs, M. Fazekas, and J. Kertész, "Corruption Risk in Contracting Markets: A Network Science Perspective." International Journal of Data Science and Analytics, pp 1–16 (2020)
+https://zenodo.org/record/3627216#.XivHNy2ZNGV
+
+bafd7021dd4a3d6611fcd6c5ea6100f6
+N. Simonis et al., "Empirically controlled mapping of the Caenorhabditis elegans protein-protein interactome network." Nature Methods 6(1), 47-54 (2009)
+http://ccsb.dfci.harvard.edu/web/export/sites/default/ccsb/publications/papers/2009/Simonis_NatMeth_1-09.pdf
+
+df808e55beae7083c830e0f6396b44a5
+R. Guimera, L. Danon, A. Diaz-Guilera, F. Giralt and A. Arenas, "Self-similar community structure in a network of human interactions." Physical Review E 68, 065103(R) (2003).
+http://deim.urv.cat/~alexandre.arenas/publicacions/pdf/email.pdf
+
+8f7544bca281e568e4de006ca3c2c614
+J. Wachs, M. Fazekas, and J. Kertész, "Corruption Risk in Contracting Markets: A Network Science Perspective." International Journal of Data Science and Analytics, pp 1–16 (2020)
+https://zenodo.org/record/3627216#.XivHNy2ZNGV
+
+e1b051648d40d992a3bb7f1615576902
+M. Kaiser and C.-C. Hilgetag, "Spatial growth of real-world networks." Physical Review E 69, 036103 (2004)
+http://www.dynamic-connectome.org/pubs/Kaiser2004b.pdf
+
+9a1f53f34702a589d1a08a24efc34329
+T. Reguly et al., "Comprehensive curation and analysis of global interaction networks in Saccharomyces cerevisiae." J. Biol. 5(4), article 11 (2006)
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1561585/
+
+a518da24d2de32499b5cd5204f003468
+United States Federal Aviation Administration, "Air traffic control system command center." http://www.fly.faa.gov/ (2010).
+http://konect.uni-koblenz.de/networks/maayan-faa
+
+cdacdaf6bcd325be4f1c99f0aa011cdb
+T. Opsahl and P. Panzarasa, "Clustering in weighted networks." Social Networks 31(2),155-163 (2009).
+http://konect.cc/networks/opsahl-ucsocial/
+
+85d57240c98b67075c9a2e68cb49bf9a
+http://dl.acm.org/citation.cfm?id=1557108
+J. Tang, et al. "Social influence analysis in large-scale networks." Proc 15th ACM SIGKDD Internat. Conf. Knowledge Discovery and Data Mining (2009)
+
+358aa87b95cb05df1959133a9223132a
+A.L. Traud, P.J. Mucha, and M.A. Porter. "Social structure of Facebook networks." Physica A, 391(16), 4165–4180 (2012)
+http://arxiv.org/abs/1102.2166
+
+4736ee1c65709a5b5a7329e0b350cd8d
+S. Aref, D. Friggens, and S. Hendy, "Analysing scientific collaborations of New Zealand institutions using Scopus bibliometric data." Proc. Australasian Comp. Sci. Week Multiconf. (ACSW ’18), Article 49, 1-10 (2018), https://doi.org/10.1145/3167918.3167920 [@sci-hub]
+https://doi.org/10.6084/m9.figshare.5705167
+
+50368a7ead7d64ffaa5e4c0abfbf2ba0
+A.L. Traud, P.J. Mucha, and M.A. Porter. "Social structure of Facebook networks." Physica A, 391(16), 4165–4180 (2012)
+http://arxiv.org/abs/1102.2166
+
+05cf9040ae63ab8fe362d86867596f3c
+J. Wachs, M. Fazekas, and J. Kertész, "Corruption Risk in Contracting Markets: A Network Science Perspective." International Journal of Data Science and Analytics, pp 1–16 (2020)
+https://zenodo.org/record/3627216#.XivHNy2ZNGV
+
+a974fc93e9b3a2165d78571cd0f62746
+A. Chatterjee, M. Manohar, and G. Ramadurai, "Statistical analysis of bus networks in India." PloS ONE 11(12), e0168478 (2016)
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0168478
+
+704135bc2360d9fd6d7acc59b9af7080
+E. Sancho. "The Terrassa Asymmetric Network." http://www.bgu.ac.il/~bargera/tntp/ (2016).
+http://www.bgu.ac.il/~bargera/tntp/
+
+ee14360264a970ede30826c3eaf8c6a8
+H. Yu et al., "High-Quality Binary Protein Interaction Map of the Yeast Interactome Network." Science 322(5898), 104-110 (2008)
+http://interactome.dfci.harvard.edu/S_cerevisiae/download/YuSci2008.pdf
+
+80473cf8d34b761f1526434bcbee6ed9
+A.L. Traud, P.J. Mucha, and M.A. Porter. "Social structure of Facebook networks." Physica A, 391(16), 4165–4180 (2012)
+http://arxiv.org/abs/1102.2166
+
+ff31a65b8940da63b9947476bf7c3b78
+A. Yazdani and P. Jeffrey, "Complex network analysis of water distribution systems." Chaos 21, 016111 (2011)
+http://scitation.aip.org/content/aip/journal/chaos/21/1/10.1063/1.3540339
+
+0f0f33260a18495de6c94e99594ba919
+A. Yazdani and P. Jeffrey, "Complex network analysis of water distribution systems." Chaos 21, 016111 (2011)
+http://scitation.aip.org/content/aip/journal/chaos/21/1/10.1063/1.3540339
+
+b5fc7243c354a104aed4ff494fc23617
+J. Wachs, M. Fazekas, and J. Kertész, "Corruption Risk in Contracting Markets: A Network Science Perspective." International Journal of Data Science and Analytics, pp 1–16 (2020)
+https://zenodo.org/record/3627216#.XivHNy2ZNGV
+
+e8d33f03039fcd4f17492083eaba97fa
+J. Wachs, M. Fazekas, and J. Kertész, "Corruption Risk in Contracting Markets: A Network Science Perspective." International Journal of Data Science and Analytics, pp 1–16 (2020)
+https://zenodo.org/record/3627216#.XivHNy2ZNGV
+
+45c2278f685ffa7eff8d6f701edc6a8a
+J. Wachs, M. Fazekas, and J. Kertész, "Corruption Risk in Contracting Markets: A Network Science Perspective." International Journal of Data Science and Analytics, pp 1–16 (2020)
+https://zenodo.org/record/3627216#.XivHNy2ZNGV
+
+a75c9bece1e70b54e6c53d854adc39c3
+University of Oregon Route Views Project, http://www.routeviews.org/ (2001)
+http://www.routeviews.org/
+
+1697dbe2c9c52899aab4584aa3fe4f65
+"Internal migration within Austria acc.to communes since 2002 (status of 2022)", Statistik Austria, https://data.statistik.gv.at
+https://data.statistik.gv.at/web/meta.jsp?dataset=OGDEXT_BINNENWAND_1
+
+9093c6925abc4e7f3d50571bd2e63ac6
+"Internal migration within Austria acc.to communes since 2002 (status of 2022)", Statistik Austria, https://data.statistik.gv.at
+https://data.statistik.gv.at/web/meta.jsp?dataset=OGDEXT_BINNENWAND_1
+
+5d624cfea1c713424c65fdcd5ea9a2d3
+"Internal migration within Austria acc.to communes since 2002 (status of 2022)", Statistik Austria, https://data.statistik.gv.at
+https://data.statistik.gv.at/web/meta.jsp?dataset=OGDEXT_BINNENWAND_1
+
+544dd1442a3f78f2c620358ad2d555c6
+"Internal migration within Austria acc.to communes since 2002 (status of 2022)", Statistik Austria, https://data.statistik.gv.at
+https://data.statistik.gv.at/web/meta.jsp?dataset=OGDEXT_BINNENWAND_1
+
+0e8b0e732a770bf51c874090b8037301
+"Internal migration within Austria acc.to communes since 2002 (status of 2022)", Statistik Austria, https://data.statistik.gv.at
+https://data.statistik.gv.at/web/meta.jsp?dataset=OGDEXT_BINNENWAND_1
+
+e938508bcd0d56f462afbfc78e594d3b
+"Internal migration within Austria acc.to communes since 2002 (status of 2022)", Statistik Austria, https://data.statistik.gv.at
+https://data.statistik.gv.at/web/meta.jsp?dataset=OGDEXT_BINNENWAND_1
+
+40f420c3dd3e8f35d4224e54d0492820
+"Internal migration within Austria acc.to communes since 2002 (status of 2022)", Statistik Austria, https://data.statistik.gv.at
+https://data.statistik.gv.at/web/meta.jsp?dataset=OGDEXT_BINNENWAND_1
+
+2d8081d02d340022d821992bd245e435
+"Internal migration within Austria acc.to communes since 2002 (status of 2022)", Statistik Austria, https://data.statistik.gv.at
+https://data.statistik.gv.at/web/meta.jsp?dataset=OGDEXT_BINNENWAND_1
+
+c5beeb2a34d1d5ce60edd11c2bd25f3b
+"Internal migration within Austria acc.to communes since 2002 (status of 2022)", Statistik Austria, https://data.statistik.gv.at
+https://data.statistik.gv.at/web/meta.jsp?dataset=OGDEXT_BINNENWAND_1
+
+ef010e6a91708f3e74d67042110f6241
+"Internal migration within Austria acc.to communes since 2002 (status of 2022)", Statistik Austria, https://data.statistik.gv.at
+https://data.statistik.gv.at/web/meta.jsp?dataset=OGDEXT_BINNENWAND_1
+
+0ad4bb8f06b0bb5f2aa0883827fdf8da
+"Internal migration within Austria acc.to communes since 2002 (status of 2022)", Statistik Austria, https://data.statistik.gv.at
+https://data.statistik.gv.at/web/meta.jsp?dataset=OGDEXT_BINNENWAND_1
+
+7cb76e7817bc37c4065ef7ca7af985d9
+"Internal migration within Austria acc.to communes since 2002 (status of 2022)", Statistik Austria, https://data.statistik.gv.at
+https://data.statistik.gv.at/web/meta.jsp?dataset=OGDEXT_BINNENWAND_1
+
+a5210dc518efac7d20a3a2e2d52a9cec
+"Internal migration within Austria acc.to communes since 2002 (status of 2022)", Statistik Austria, https://data.statistik.gv.at
+https://data.statistik.gv.at/web/meta.jsp?dataset=OGDEXT_BINNENWAND_1
+
+ee9e7842de9f9e35af228b4b4f6f7d51
+"Internal migration within Austria acc.to communes since 2002 (status of 2022)", Statistik Austria, https://data.statistik.gv.at
+https://data.statistik.gv.at/web/meta.jsp?dataset=OGDEXT_BINNENWAND_1
+
+0a874de266490f296fceda8fe933b530
+"Internal migration within Austria acc.to communes since 2002 (status of 2022)", Statistik Austria, https://data.statistik.gv.at
+https://data.statistik.gv.at/web/meta.jsp?dataset=OGDEXT_BINNENWAND_1
+
+4cbcfcd92bddcfbd132deba3a0254355
+"Internal migration within Austria acc.to communes since 2002 (status of 2022)", Statistik Austria, https://data.statistik.gv.at
+https://data.statistik.gv.at/web/meta.jsp?dataset=OGDEXT_BINNENWAND_1
+
+60004e8a828c13f4a4437dfd07dae8b8
+"Internal migration within Austria acc.to communes since 2002 (status of 2022)", Statistik Austria, https://data.statistik.gv.at
+https://data.statistik.gv.at/web/meta.jsp?dataset=OGDEXT_BINNENWAND_1
+
+8219c8c0af04be63783c8aaf4164f34b
+"Internal migration within Austria acc.to communes since 2002 (status of 2022)", Statistik Austria, https://data.statistik.gv.at
+https://data.statistik.gv.at/web/meta.jsp?dataset=OGDEXT_BINNENWAND_1
+
+426159b6af4341243b2b1f693f8f5849
+"Internal migration within Austria acc.to communes since 2002 (status of 2022)", Statistik Austria, https://data.statistik.gv.at
+https://data.statistik.gv.at/web/meta.jsp?dataset=OGDEXT_BINNENWAND_1
+
+2afa2b67c02f45e2a5f8d2f394aa5c06
+"Internal migration within Austria acc.to communes since 2002 (status of 2022)", Statistik Austria, https://data.statistik.gv.at
+https://data.statistik.gv.at/web/meta.jsp?dataset=OGDEXT_BINNENWAND_1
+
+150881afb13f793935ed3151bda7e011
+"Internal migration within Austria acc.to communes since 2002 (status of 2022)", Statistik Austria, https://data.statistik.gv.at
+https://data.statistik.gv.at/web/meta.jsp?dataset=OGDEXT_BINNENWAND_1
+
+8ce04d01639b6d5f9168592add792796
+University of Oregon Route Views Project, http://www.routeviews.org/ (2001)
+http://www.routeviews.org/
+
+82e0d1b75aceda432f481a7b7b60e050
+N. Simonis et al., "Empirically controlled mapping of the Caenorhabditis elegans protein-protein interactome network." Nature Methods 6(1), 47-54 (2009)
+http://ccsb.dfci.harvard.edu/web/export/sites/default/ccsb/publications/papers/2009/Simonis_NatMeth_1-09.pdf
+
+411c42417f687e72368826eb3d732076
+A.L. Traud, P.J. Mucha, and M.A. Porter. "Social structure of Facebook networks." Physica A, 391(16), 4165–4180 (2012)
+http://arxiv.org/abs/1102.2166
+
+44d584acfb685daf1048358695b1f522
+A.L. Traud, P.J. Mucha, and M.A. Porter. "Social structure of Facebook networks." Physica A, 391(16), 4165–4180 (2012)
+http://arxiv.org/abs/1102.2166
+
+3d6863d448c3e497e142ddca10f47220
+A. Chatterjee, M. Manohar, and G. Ramadurai, "Statistical analysis of bus networks in India." PloS ONE 11(12), e0168478 (2016)
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0168478
+
+65b4954d96c70f4d4c31f1681d87130b
+A.L. Traud, P.J. Mucha, and M.A. Porter. "Social structure of Facebook networks." Physica A, 391(16), 4165–4180 (2012)
+http://arxiv.org/abs/1102.2166
+
+f182f73aa59512c8efc5e3c0863ee280
+J. Wachs, M. Fazekas, and J. Kertész, "Corruption Risk in Contracting Markets: A Network Science Perspective." International Journal of Data Science and Analytics, pp 1–16 (2020)
+https://zenodo.org/record/3627216#.XivHNy2ZNGV
+
+bb07bf50b449a651e089832c6e8a4879
+J. Wachs, M. Fazekas, and J. Kertész, "Corruption Risk in Contracting Markets: A Network Science Perspective." International Journal of Data Science and Analytics, pp 1–16 (2020)
+https://zenodo.org/record/3627216#.XivHNy2ZNGV
+
+f163592f6c64d470e902d6a43a7691d0
+J. Wachs, M. Fazekas, and J. Kertész, "Corruption Risk in Contracting Markets: A Network Science Perspective." International Journal of Data Science and Analytics, pp 1–16 (2020)
+https://zenodo.org/record/3627216#.XivHNy2ZNGV
+
+7c042a5df2a324b6a2786bd48b4e35d4
+J. Wachs, M. Fazekas, and J. Kertész, "Corruption Risk in Contracting Markets: A Network Science Perspective." International Journal of Data Science and Analytics, pp 1–16 (2020)
+https://zenodo.org/record/3627216#.XivHNy2ZNGV
+
+9cc114f40d243fe525de37eceb251100
+A.L. Traud, P.J. Mucha, and M.A. Porter. "Social structure of Facebook networks." Physica A, 391(16), 4165–4180 (2012)
+http://arxiv.org/abs/1102.2166
+
+9ad75550c09c9c885aa748fdeefcc312
+A.L. Traud, P.J. Mucha, and M.A. Porter. "Social structure of Facebook networks." Physica A, 391(16), 4165–4180 (2012)
+http://arxiv.org/abs/1102.2166
+
+48c1a2c5183506be0fc63455b852498e
+J. Wachs, M. Fazekas, and J. Kertész, "Corruption Risk in Contracting Markets: A Network Science Perspective." International Journal of Data Science and Analytics, pp 1–16 (2020)
+https://zenodo.org/record/3627216#.XivHNy2ZNGV
+
+29130260e5dd65ad7e7a2b441a44ed89
+A.L. Traud, P.J. Mucha, and M.A. Porter. "Social structure of Facebook networks." Physica A, 391(16), 4165–4180 (2012)
+http://arxiv.org/abs/1102.2166
+
+6bb314f84dcabc646398dc9cec1b06b1
+L. Êubelj & M. Bajec, "Ubiquitousness of link-density and link-pattern communities in real-world networks." The European Physical Journal B 85(1), 1-11 (2012)
+http://link.springer.com/article/10.1140%2Fepjb%2Fe2011-20448-7?LI=true
+
+49553d1ac922c6fc6c07cf592e7d2473
+J. Wachs, M. Fazekas, and J. Kertész, "Corruption Risk in Contracting Markets: A Network Science Perspective." International Journal of Data Science and Analytics, pp 1–16 (2020)
+https://zenodo.org/record/3627216#.XivHNy2ZNGV
+
+d4138e0841a49e92ebba1342d3726e0d
+A.L. Traud, P.J. Mucha, and M.A. Porter. "Social structure of Facebook networks." Physica A, 391(16), 4165–4180 (2012)
+http://arxiv.org/abs/1102.2166
+
+136074521b4554a8ca6782caef83ff0f
+A.L. Traud, P.J. Mucha, and M.A. Porter. "Social structure of Facebook networks." Physica A, 391(16), 4165–4180 (2012)
+http://arxiv.org/abs/1102.2166
+
+0b2dfde931d5e8d44d8de75fdd77393f
+A.L. Traud, P.J. Mucha, and M.A. Porter. "Social structure of Facebook networks." Physica A, 391(16), 4165–4180 (2012)
+http://arxiv.org/abs/1102.2166
+
+0770f4ae70e77ebad6ae538c73cdd84f
+J. Das and H. Yu, "HINT: High-quality protein interactomes and their applications in understanding human disease." BMC Systems Biology 6(1), 92 (2012)
+http://www.biomedcentral.com/1752-0509/6/92/
+
+da9661b4a19d877d28c0d1153b68ced1
+J. Wachs, M. Fazekas, and J. Kertész, "Corruption Risk in Contracting Markets: A Network Science Perspective." International Journal of Data Science and Analytics, pp 1–16 (2020)
+https://zenodo.org/record/3627216#.XivHNy2ZNGV
+
+a410e6ea9f4beab088e487bcdfe3e9b4
+9th DIMACS Implementation Challenge - Shortest Paths
+http://www.dis.uniroma1.it/challenge9/download.shtml
+
+7d915d0745727072c90b61f9539eddec
+S. Kumar, F. Spezzano, V.S. Subrahmanian, and C. Faloutsos, "Edge weight prediction in weighted signed networks." IEEE 16th International Conference on Data Mining (ICDM), 221-230 (2016), https://doi.org/10.1109/icdm.2016.0033 [@sci-hub]
+http://snap.stanford.edu/data/soc-sign-bitcoinalpha.html
+
+3ff3dfbfcc6571474923a96cfebf3386
+J. McAuley and J. Leskovec. "Learning to Discover Social Circles in Ego Networks." NIPS (2012). arxiv:1210.8182
+http://snap.stanford.edu/data/egonets-Facebook.html
+
+221660fadf5202becd2f2ade2cb96d3e
+J. Leskovec, J. Kleinberg and C. Faloutsos. Graph Evolution: Densification and Shrinking Diameters. ACM Transactions on Knowledge Discovery from Data (ACM TKDD), 1(1), 2007.
+https://snap.stanford.edu/data/ca-GrQc.html
+
+84a361679332cce2af0b7cf88b8ff12f
+J. Wachs, M. Fazekas, and J. Kertész, "Corruption Risk in Contracting Markets: A Network Science Perspective." International Journal of Data Science and Analytics, pp 1–16 (2020)
+https://zenodo.org/record/3627216#.XivHNy2ZNGV
+
+30354e3769446808464f0f40dae860bf
+J. Wachs, M. Fazekas, and J. Kertész, "Corruption Risk in Contracting Markets: A Network Science Perspective." International Journal of Data Science and Analytics, pp 1–16 (2020)
+https://zenodo.org/record/3627216#.XivHNy2ZNGV
+
+1ec1ef6ef9516d0680b0a16da70c6087
+J. Leskovec, J. Kleinberg and C. Faloutsos. Graph Evolution: Densification and Shrinking Diameters. ACM Transactions on Knowledge Discovery from Data (ACM TKDD), 1(1), 2007.
+https://snap.stanford.edu/data/ca-HepTh.html
+
+d07766a87ed2b14c54657284362464e9
+J. Wachs, M. Fazekas, and J. Kertész, "Corruption Risk in Contracting Markets: A Network Science Perspective." International Journal of Data Science and Analytics, pp 1–16 (2020)
+https://zenodo.org/record/3627216#.XivHNy2ZNGV
+
+7cc4fa80cb8a2e4ac864236a15bfe2a5
+J. Wachs, M. Fazekas, and J. Kertész, "Corruption Risk in Contracting Markets: A Network Science Perspective." International Journal of Data Science and Analytics, pp 1–16 (2020)
+https://zenodo.org/record/3627216#.XivHNy2ZNGV
+
